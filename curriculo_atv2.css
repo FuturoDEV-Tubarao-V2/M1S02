@@ -1,0 +1,17 @@
+body {
+  font-size: 18px;
+  font-family: sans-serif;
+}
+
+img {
+  width: 200px;
+  border-radius: 50%;
+}
+
+.item-secao {
+  margin-left: 16px
+}
+
+h2 {
+  color: #2B3140;
+}
